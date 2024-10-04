@@ -1,0 +1,1 @@
+This project is about learning Resource Management System (RMS) -> I'm building this project to learn how to build a rms to build one for my company and also learn and try to implement python scripts to for CRUD to become a "discovery scientist"
