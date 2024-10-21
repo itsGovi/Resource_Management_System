@@ -1,3 +1,5 @@
+# The basic structure of the DB
+
 hr_analytics/
 ├── data/
 │   ├── raw/
